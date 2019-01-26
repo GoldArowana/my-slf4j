@@ -10,6 +10,8 @@
     <version>1.7.20-SNAPSHOT</version>
     <modules>
         <module>slf4j-api</module>
+        <module>slf4j-simple</module>
+        <module>slf4j-nop</module>
     </modules>
 
     <name>my-slf4j</name>
